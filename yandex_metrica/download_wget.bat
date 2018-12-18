@@ -1,0 +1,1 @@
+E:/blog/PDI_yandex_metrica/PDI_yandex_metrica/wget.exe  --no-check-certificate  https://api-metrika.yandex.ru/stat/traffic/summary.json?id=29349165^&date1=20150501^&date2=20150522^&oauth_token=de80342ba48343138b27a96b38621fe9 --output-document E:/blog/PDI_yandex_metrica/PDI_yandex_metrica/result/summary.js
